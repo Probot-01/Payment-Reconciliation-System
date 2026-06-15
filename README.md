@@ -176,28 +176,4 @@ All scripts are run from the **root** of the repository.
 | `npm run db:seed` | Seed the database with initial/test data |
 | `npm run build` | Build the frontend for production |
 
----
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how to get started:
-
-1. **Fork** the repository
-2. **Create** a feature branch: `git checkout -b feature/your-feature-name`
-3. **Commit** your changes: `git commit -m "feat: add amazing feature"`
-4. **Push** to your fork: `git push origin feature/your-feature-name`
-5. **Open** a Pull Request
-
-Please ensure your code is typed correctly and follows the existing project conventions.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-  <sub>Built with ❤️ using TypeScript</sub>
-</div>
